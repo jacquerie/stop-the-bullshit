@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: transparent;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2;
+  margin: 42px 0 63px 0;
+  padding: 10.5px 0;
+  text-align: center;
+}
+
+.jumbotron .btn {
+  padding: 14px 21px;
+}
+
+.action b {
+  font-weight: 400;
+}

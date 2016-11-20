@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Stop The Bullshit</title>
+    <link rel="stylesheet" href="../lib/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/blocked.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron">
+        <h1><i class="fa fa-ban text-danger"></i> Watch Out!</h1>
+        <p class="lead">
+          The website you are trying to access (<span id="url"></span>)<br>
+          is known for publishing fake news in order to earn ad money.
+        </p>
+        <button id="back" class="btn btn-lg btn-success">
+          Take Me Back To Safety
+        </button>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1 explanation">
+              <h2>What Happened?</h2>
+              <p class="lead">
+                You clicked on a link to a website known for publishing fake news.
+                This extension prevented your browser from visiting it, so that
+                their owners do not earn money from the ads contained in that
+                page.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1 action">
+              <h2>What Can I Do?</h2>
+              <p class="lead">
+                If you followed a link posted by someone else on Facebook or
+                Twitter, inform them that the news they shared is probably
+                false, and that <b>they are helping a scammer</b> reach more
+                people.
+              </p>
+              <p class="lead">
+                ...did you know that these scammers might be earning
+                <a href="https://goo.gl/1SbQFv">more than $10,000 a month</a>
+                by preying on unsuspecting people?
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="../lib/jquery/jquery.min.js"></script>
+    <script src="js/blocked.js"></script>
+  </body>
+</html>

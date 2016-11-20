@@ -1,0 +1,44 @@
+{
+  "manifest_version": 2,
+
+  "name": "StopTheBullshit",
+  "description": "Blocks websites that publish fake news.",
+  "author": "Jacopo Notarstefano",
+  "version": "0.1.0",
+
+  "icons": {
+    "48": "src/img/StB48.png",
+    "128": "src/img/StB128.png"
+  },
+
+  "background": {
+    "scripts": [
+      "src/js/background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.facebook.com/*"
+      ],
+      "css": [
+        "src/css/facebook.css"
+      ],
+      "js": [
+        "lib/underscore/underscore.min.js",
+        "lib/jquery/jquery.min.js",
+        "src/js/facebook.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "src/blocked.html"
+  ],
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
