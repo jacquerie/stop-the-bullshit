@@ -33,7 +33,16 @@ $(document).ready(function () {
           cleanURL = url.split('|')[0];
 
         if (blockedURLs.has(cleanURL)) {
-          $(this).closest('.userContentWrapper').fadeOut();
+          var $blockedPost = $(this).closest('.userContentWrapper');
+
+          $blockedPost.fadeOut(400, function () {
+            $blockedPost.html('<p class="suggestion"> \
+              This user posted something which is probably false. Inform them \
+              that <b>they are helping a scammer</b> reach more people, and \
+              recommend them to <a href="https://goo.gl/W3i1Jj">install \
+              StopTheBullshit</a>.</p>');
+            $blockedPost.fadeIn();
+          });
         }
     }, 400);
   }));
