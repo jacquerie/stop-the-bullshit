@@ -3,11 +3,16 @@ $(document).ready(function () {
     '70news.wordpress.com',
     'abcnews.com.co',
     'americannews.com',
+    'christwire.org',
+    'dailycurrant.com',
     'dailystar.co.uk',
+    'dcgazette.com',
     'eaglerising.com',
     'empirenews.net',
     'endingthefed.com',
     'hotglobalnews.com',
+    'infowars.com',
+    'naturalnews.com',
     'stuppid.com',
     'theblacksphere.net',
     'theglobalsun.com',
@@ -21,8 +26,10 @@ $(document).ready(function () {
     'truthcdm.com',
     'usanewsflash.com',
     'usherald.com',
+    'witscience.org',
     'worldnewsdailyreport.com',
     'worldpoliticus.com',
+    'worldtruth.tv/',
   ]);
 
   $(window).scroll(_.debounce(function () {
