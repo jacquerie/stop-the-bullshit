@@ -32,6 +32,8 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.usconservativetoday.com/*',
       '*://*.worldnewsdailyreport.com/*',
       '*://*.worldpoliticus.com/*',
+      '*://*.nationalreport.net/*',
+      '*://*.newsexaminer.net/*'
     ],
     'types': ['main_frame'],
   },
