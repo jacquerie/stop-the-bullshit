@@ -20,6 +20,7 @@ $(document).ready(function () {
     'trumpvision365.com',
     'truthcdm.com',
     'usanewsflash.com',
+    'usconservativetoday.com',
     'usherald.com',
     'worldnewsdailyreport.com',
     'worldpoliticus.com',
