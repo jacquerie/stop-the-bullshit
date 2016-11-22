@@ -22,7 +22,7 @@ that could lead to an algorithm to automatically detect Fake News.
 > https://news.ycombinator.com/item?id=12999887
 
 I don't and won't care about websites that stretch the truth to accommodate an
-agenda, whichever the agenda. I also won't include satire website, because my
+agenda, whichever the agenda. I also won't include satire websites, because my
 objective isn't teaching critical thinking, it's just filtering some spam.
 
 ## Author ##
