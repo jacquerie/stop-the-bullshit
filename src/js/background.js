@@ -101,6 +101,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.socialnotixweb.com/*',
       '*://*.stuppid.com/*',
       '*://*.succedenelmondo.com/*',
+      '*://*.tg24.live/*',
       '*://*.tg5stelle.it/*',
       '*://*.theblacksphere.net/*',
       '*://*.theglobalsun.com/*',

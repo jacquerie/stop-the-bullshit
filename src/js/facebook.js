@@ -93,6 +93,7 @@ $(document).ready(function () {
     'socialnotixweb.com',
     'stuppid.com',
     'succedenelmondo.com',
+    'tg24.live',
     'tg5stelle.it',
     'theblacksphere.net',
     'theglobalsun.com',
