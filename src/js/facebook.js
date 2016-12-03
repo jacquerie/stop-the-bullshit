@@ -74,6 +74,7 @@ $(document).ready(function () {
     'news24roma.com',
     'newscronaca.it',
     'newsitalys.com',
+    'news-italys.com',
     'noinvasione.com',
     'notixonline.com',
     'notixweb.com',
