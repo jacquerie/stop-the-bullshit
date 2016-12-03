@@ -131,7 +131,8 @@ $(document).ready(function () {
       .not('.FriendButton')
       .each(function () {
         var url = $(this).text(),
-          cleanURL = url.split('|')[0];
+          cleanURL = url.split('|')[0]
+            .split('.').slice(-2).join('.');
 
         if (blockedURLs.has(cleanURL)) {
           var $blockedPost = $(this).closest('.userContentWrapper'),
