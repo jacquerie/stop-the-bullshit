@@ -82,6 +82,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.news24roma.com/*',
       '*://*.newscronaca.it/*',
       '*://*.newsitalys.com/*',
+      '*://*.news-italys.com/*',
       '*://*.noinvasione.com/*',
       '*://*.notixonline.com/*',
       '*://*.notixweb.com/*',
