@@ -17,6 +17,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.catenaumana.com/*',
       '*://*.chesuccede.it/*',
       '*://*.clicknotizie.it/*',
+      '*://*.clickvirale.com/*',
       '*://*.condividilo.org/*',
       '*://*.coriere.net/*',
       '*://*.corrieredellapera.com/*',
