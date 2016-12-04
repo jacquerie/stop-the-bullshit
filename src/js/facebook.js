@@ -43,6 +43,7 @@ $(document).ready(function () {
     'ilmattoquotidiano.it',
     'ilmessaggio.it',
     'ilpatriota.it',
+    'ilpinguinoinnamorato.it',
     'ilquotidaino.wordpress.com',
     'iltelegrafo.altervista.org',
     'imigliori.info',
