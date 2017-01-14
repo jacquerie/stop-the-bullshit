@@ -4,6 +4,7 @@ $(document).ready(function () {
     '70news.wordpress.com',
     'abcnews.com.co',
     'americannews.com',
+    'articolo21art.altervista.org',
     'blognews24ore.com',
     'breaknotizie.com',
     'catenaumana.com',
