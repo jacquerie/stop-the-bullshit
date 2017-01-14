@@ -17,6 +17,7 @@ $(document).ready(function () {
     'corrieredisera.it',
     'curiosandoonline.com',
     'curiosity2013.altervista.org',
+    'curiosity2015.altervista.org',
     'dailystar.co.uk',
     'direttanews.it',
     'direttanews24.com',
