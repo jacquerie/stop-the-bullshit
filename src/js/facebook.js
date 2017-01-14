@@ -63,6 +63,7 @@ $(document).ready(function () {
     'la-cosa.it',
     'lafucina.it',
     'lanozione.com',
+    'lapillolarossa15.altervista.org',
     'larepubblica.info',
     'lasera.altervista.org',
     'last-webs.com',
