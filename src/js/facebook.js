@@ -8,6 +8,7 @@ $(document).ready(function () {
     'blognews24ore.com',
     'breaknotizie.com',
     'catenaumana.com',
+    'catwoman2016.altervista.org',
     'chesuccede.it',
     'clicknotizie.it',
     'clickvirale.com',
