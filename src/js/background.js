@@ -13,6 +13,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.abcnews.com.co/*',
       '*://*.americannews.com/*',
       '*://*.articolo21art.altervista.org/*',
+      '*://*.blogdieles2.altervista.org/*',
       '*://*.blognews24ore.com/*',
       '*://*.breaknotizie.com/*',
       '*://*.catenaumana.com/*',
