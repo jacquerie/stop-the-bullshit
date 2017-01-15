@@ -130,6 +130,7 @@ $(document).ready(function () {
     'worldpoliticus.com',
     'wowchevideo.com',
     'younetspiegalevele.info',
+    'zapping2015.altervista.org',
     'zonagrigianews.com',
   ]);
 

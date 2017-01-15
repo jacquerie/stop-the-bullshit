@@ -138,6 +138,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.worldpoliticus.com/*',
       '*://*.wowchevideo.com/*',
       '*://*.younetspiegalevele.info/*',
+      '*://*.zapping2015.altervista.org/*',
       '*://*.zonagrigianews.com/*',
     ],
     'types': ['main_frame'],
