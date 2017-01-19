@@ -103,6 +103,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.perdavvero.com/*',
       '*://*.realfunny.info/*',
       '*://*.repubblica24.com/*',
+      '*://*.ridixd.altervista.org/*',
       '*://*.robadapazzi.com/*',
       '*://*.rubrica24.altervista.org/*',
       '*://*.segretodistato.com/*',
