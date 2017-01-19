@@ -53,6 +53,7 @@ $(document).ready(function () {
     'iltelegrafo.altervista.org',
     'imigliori.info',
     'imigliorivideo.co',
+    'informazionebycuriosity.altervista.org',
     'iovivoaroma.org',
     'italiahotspot.altervista.org',
     'italiainmovimento.it',
