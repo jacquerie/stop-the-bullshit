@@ -88,6 +88,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.news24italia.com/*',
       '*://*.news24italy.com/*',
       '*://*.news24roma.com/*',
+      '*://*.news24tg.com/*',
       '*://*.newscronaca.it/*',
       '*://*.newsitalys.com/*',
       '*://*.news-italys.com/*',
