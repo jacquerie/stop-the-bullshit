@@ -4,7 +4,7 @@
   "name": "StopTheBullshit",
   "description": "Blocks websites that publish fake news.",
   "author": "Jacopo Notarstefano",
-  "version": "0.1.9",
+  "version": "0.1.10",
 
   "icons": {
     "48": "src/img/StB48.png",
