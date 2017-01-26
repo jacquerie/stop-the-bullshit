@@ -44,6 +44,7 @@ $(document).ready(function () {
     'ilfatoquotidiano.com',
     'ilfattaccio.org',
     'ilfattoquotidaino.it',
+    'ilgiornaleitaliano.it',
     'ilgiornalenews.com',
     'ilmattoquotidiano.it',
     'ilmessaggio.it',

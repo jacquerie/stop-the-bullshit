@@ -52,6 +52,7 @@ chrome.webRequest.onBeforeRequest.addListener(
       '*://*.ilfatoquotidiano.com/*',
       '*://*.ilfattaccio.org/*',
       '*://*.ilfattoquotidaino.it/*',
+      '*://*.ilgiornaleitaliano.it/*',
       '*://*.ilgiornalenews.com/*',
       '*://*.ilmattoquotidiano.it/*',
       '*://*.ilmessaggio.it/*',
