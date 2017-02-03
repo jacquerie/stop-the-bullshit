@@ -13,6 +13,7 @@
 
   "background": {
     "scripts": [
+      "src/js/urls.js",
       "src/js/background.js"
     ]
   },
@@ -27,6 +28,7 @@
       "js": [
         "lib/underscore/underscore.min.js",
         "lib/jquery/jquery.min.js",
+        "src/js/urls.js",
         "src/js/facebook.js"
       ]
     }
