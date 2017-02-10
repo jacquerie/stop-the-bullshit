@@ -110,6 +110,7 @@ var urls = [
   'succedenelmondo.com',
   'tg24.live',
   'tg5stelle.it',
+  'tgcom24.live',
   'theblacksphere.net',
   'theglobalsun.com',
   'thenationalsun.com',
