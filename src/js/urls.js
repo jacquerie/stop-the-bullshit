@@ -101,6 +101,7 @@ var urls = [
   'ridixd.altervista.org',
   'robadapazzi.com',
   'rubrica24.altervista.org',
+  'shock-news.it',
   'segretodistato.com',
   'siamolagente.altervista.org',
   'siamonapoletani.org',
