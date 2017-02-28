@@ -96,6 +96,7 @@ var urls = [
   'pandapazzo.com',
   'paroladiugo.it',
   'perdavvero.com',
+  'piovegovernoladro.info',
   'realfunny.info',
   'repubblica24.com',
   'ridixd.altervista.org',
