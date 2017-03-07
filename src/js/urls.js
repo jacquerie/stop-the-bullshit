@@ -112,6 +112,7 @@ var urls = [
   'stuppid.com',
   'succedenelmondo.com',
   'tg24.live',
+  'tg24italia.com',
   'tg5stelle.it',
   'tgcom24.live',
   'theblacksphere.net',
