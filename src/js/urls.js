@@ -132,6 +132,7 @@ var urls = [
   'usconservativetoday.com',
   'usherald.com',
   'videoenotizie.it',
+  'videovirali365.com',
   'videoviraliweb.com',
   'web-news24.com',
   'webitalia360.com',
