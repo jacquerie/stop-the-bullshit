@@ -97,6 +97,7 @@ var urls = [
   'paroladiugo.it',
   'perdavvero.com',
   'piovegovernoladro.info',
+  'postvirale.it',
   'realfunny.info',
   'repubblica24.com',
   'ridixd.altervista.org',
