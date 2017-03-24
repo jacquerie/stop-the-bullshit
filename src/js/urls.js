@@ -43,6 +43,7 @@ var urls = [
   'ilcorrieredellanotte.it',
   'ilfatoquotidiano.com',
   'ilfattaccio.org',
+  'ilfattodalweb.com',
   'ilfattonequotidiano.com',
   'ilfattoquotidaino.it',
   'ilgiornaleitaliano.it',
