@@ -4,6 +4,7 @@ var urls = [
   'abcnews.com.co',
   'americannews.com',
   'articolo21art.altervista.org',
+  'attivotv.it',
   'blogdieles2.altervista.org',
   'blognews24ore.com',
   'breaknotizie.com',
