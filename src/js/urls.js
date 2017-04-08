@@ -29,6 +29,7 @@ var urls = [
   'empirenews.net',
   'endingthefed.com',
   'essere-informati.it',
+  'fattoreumano.tv',
   'funvideosonline.info',
   'gazzetta24.com',
   'gazzettadellasera.com',
