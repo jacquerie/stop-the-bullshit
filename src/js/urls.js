@@ -83,6 +83,7 @@ var urls = [
   'linktoday.it',
   'livewebit.com',
   'mafia-capitale.it',
+  'mistero.tv',
   'news-italys.com',
   'news24italia.com',
   'news24italy.com',
