@@ -116,6 +116,7 @@ var urls = [
   'skytg24news.com',
   'socialbuzz.it',
   'socialnotixweb.com',
+  'soloitaliani.com',
   'stuppid.com',
   'succedenelmondo.com',
   'tg24.live',
