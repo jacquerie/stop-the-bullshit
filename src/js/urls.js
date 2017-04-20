@@ -34,6 +34,7 @@ var urls = [
   'gazzetta24.com',
   'gazzettadellasera.com',
   'gazzettanews24.com',
+  'giornale24h.com',
   'giornaleilsole.com',
   'giornaleinformativo.altervista.org',
   'grandecocomero.com',
