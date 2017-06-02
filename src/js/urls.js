@@ -114,6 +114,7 @@ var urls = [
   'shock-news.it',
   'siamolagente.altervista.org',
   'siamonapoletani.org',
+  'sky24ore.it',
   'skytg24news.com',
   'socialbuzz.it',
   'socialnotixweb.com',
