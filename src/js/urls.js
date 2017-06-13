@@ -119,6 +119,7 @@ var urls = [
   'socialbuzz.it',
   'socialnotixweb.com',
   'soloitaliani.com',
+  'stampa-lazio.com',
   'stuppid.com',
   'succedenelmondo.com',
   'tg24.live',
