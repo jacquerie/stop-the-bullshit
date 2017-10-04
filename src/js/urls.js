@@ -108,6 +108,7 @@ var urls = [
   'ohmiaitalia.com',
   'pandapazzo.com',
   'paroladiugo.it',
+  'pazzesco.info',
   'perdavvero.com',
   'piovegovernoladro.info',
   'postvirale.it',
