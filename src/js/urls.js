@@ -98,6 +98,7 @@ var urls = [
   'newscronaca.it',
   'newsitalys.com',
   'noinvasione.com',
+  'noncipossocredere.info',
   'notixonline.com',
   'notixweb.com',
   'notiziariosegreto.wordpress.com',
