@@ -137,6 +137,7 @@ var urls = [
   'trumpvision365.com',
   'truthcdm.com',
   'tutto.tv',
+  'tutto24.info',
   'tuttoinweb.com',
   'tzetze.it',
   'ultimora24.it',
