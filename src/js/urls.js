@@ -42,6 +42,7 @@ var urls = [
   'guarda.link',
   'guarda.one',
   'guardache.info',
+  'guardache.news',
   'hotglobalnews.com',
   'ilbellocheavanza.com',
   'ilcorriere.cloud',
