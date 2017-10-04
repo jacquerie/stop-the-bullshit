@@ -54,6 +54,7 @@ var urls = [
   'ilgiornalenews.com',
   'ilmattoquotidiano.it',
   'ilmessaggio.it',
+  'ilmondoit.info',
   'ilpatriota.it',
   'ilpinguinoinnamorato.it',
   'ilquotidaino.wordpress.com',
