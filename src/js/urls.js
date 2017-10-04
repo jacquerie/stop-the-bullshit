@@ -41,6 +41,7 @@ var urls = [
   'grandecocomero.info',
   'guarda.link',
   'guarda.one',
+  'guardache.info',
   'hotglobalnews.com',
   'ilbellocheavanza.com',
   'ilcorriere.cloud',
