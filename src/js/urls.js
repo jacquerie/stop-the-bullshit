@@ -65,6 +65,7 @@ var urls = [
   'imigliorivideo.co',
   'incredibile.info',
   'infoquotidiano.it',
+  'informatiitalia.info',
   'informazionebycuriosity.altervista.org',
   'iovivoaroma.org',
   'italiahotspot.altervista.org',
