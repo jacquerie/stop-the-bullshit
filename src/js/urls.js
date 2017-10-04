@@ -37,6 +37,7 @@ var urls = [
   'giornale24h.com',
   'giornaleilsole.com',
   'giornaleinformativo.altervista.org',
+  'globooggi.info',
   'grandecocomero.com',
   'grandecocomero.info',
   'guarda.link',
