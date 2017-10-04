@@ -63,6 +63,7 @@ var urls = [
   'iltelegrafo.altervista.org',
   'imigliori.info',
   'imigliorivideo.co',
+  'incredibile.info',
   'infoquotidiano.it',
   'informazionebycuriosity.altervista.org',
   'iovivoaroma.org',
