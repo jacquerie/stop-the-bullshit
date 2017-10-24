@@ -106,6 +106,7 @@ var urls = [
   'notizieflash.eu',
   'notiziepericolose.blogspot.com',
   'notiziespericolate.com',
+  'ognigiorno.net',
   'ohmiaitalia.com',
   'pandapazzo.com',
   'paroladiugo.it',
